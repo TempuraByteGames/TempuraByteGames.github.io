@@ -4,7 +4,9 @@
     <title>Categories on Tempura Byte Games</title>
     <link>https://tempurabytegames.github.io/categories/</link>
     <description>Recent content in Categories on Tempura Byte Games</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://tempurabytegames.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Tempura Byte Games</copyright>
+    <atom:link href="https://tempurabytegames.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
